@@ -1,8 +1,8 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: 29/07/2025
-Empresa: Abstergo Industries 
-Responsável: Genildon Barreto
+Data: 29/07/2025   
+Empresa: Abstergo Industries   
+Responsável: Genildon Barreto   
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Genildon Barreto. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
