@@ -31,8 +31,18 @@ Etapa 3:
 A implementação de ferramentas na empresa *Abstergo Industries tem como esperado Redução de Custos Operacionais*, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
+<img src="https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/images/TUT_Lambda_1.png">
+<img src="https://d2908q01vomqb2.cloudfront.net/d435a6cdd786300dff204ee7c2ef942d3e9034e2/2021/01/19/image001-1.jpg">
 
-[lista de anexos, como manuais, documentos, planilhas, entre outros]
+| Característica de Custo | Antes (On-Premise) | Depois (AWS) | Benefício com AWS |
+|---|---|---|---|
+| Armazenamento (S3) | Custos de Hardware de Storage Anuais: R$ 50.000) | Custo de Armazenamento por Uso (S3): R$ 5.000/ano (hipotético) | Redução de R$ 45.000/ano em hardware e manutenção.
+| Computação (Lambda) | Custos de Servidores Ociosos: R$ 30.000/ano | Custo por Execução (Lambda): R$ 3.000/ano (hipotético) | Eliminação de R$ 27.000/ano em servidores subutilizados.
+| Banco de Dados (RDS) | Custos de Hardware de Servidor de DB, Licenças, Manutenção de SO, DBA: R$ 80.000/ano | Custo de Instância e Uso (RDS): R$ 15.000/ano (hipotético) | Redução de R$ 65.000/ano em infraestrutura e gerenciamento de DB.
+| Custos de Energia Estimados | R$ 10.000/ano | R$ 0 (transferido para AWS) | Redução de R$ 10.000/ano em consumo de energia local.
+| Manutenção e Operação | Equipe de TI para Manutenção: R$ 40.000/ano | Menor Necessidade de Manutenção (AWS Gerenciado): R$ 5.000/ano (hipotético) | Redução de R$ 35.000/ano em despesas com equipe e horas de trabalho.
+| Total Anual Estimado | R$ 210.000 | R$ 28.000 | Economia Potencial Anual: R$ 182.000
+
 
 Assinatura do Responsável pelo Projeto:
 
